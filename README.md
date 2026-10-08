@@ -13,4 +13,4 @@ Student learning web development and Python by finishing small projects.
 
 ## Working on
 - A clearer weather dashboard
-- A mandi price calculator
+

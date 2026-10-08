@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sree Nidhi Chintapalli
 
-<!--
-**sreenidhichintapalli031108-rgb/sreenidhichintapalli031108-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student learning web development and Python by finishing small projects.
 
-Here are some ideas to get you started:
+## Learning
+- HTML, CSS, and JavaScript
+- Python
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [weatherly](https://github.com/sreenidhichintapalli031108-rgb/weatherly) — weather app in JavaScript
+- [todolist](https://github.com/sreenidhichintapalli031108-rgb/todolist) — simple task list
+
+## Working on
+- A clearer weather dashboard
+- A mandi price calculator
